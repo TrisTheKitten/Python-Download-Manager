@@ -1,5 +1,5 @@
 # Python-Download-Manager
-A Python-based open-source file downloader that allows users to download multiple files from the internet, either individually or in bulk.
+A Python-based open-source youtube video downloader that allows users to download videos from youtube, either individually or in bulk.
 
 
 !!! Update !!!
