@@ -1,4 +1,4 @@
-# Python-Download-Manager
+# Youtube-Downloader
 A Python-based open-source youtube video downloader that allows users to download videos from youtube, either individually or in bulk.
 
 
